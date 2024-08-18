@@ -1,64 +1,32 @@
 Product:
 Index: 1
-Name: Миша USB DeathAdder CHROMA
+Name: Хліб
 Unit: шт
-Price: 608
-Quantity: 20
+Price: 15
+Quantity: 123
 LastDeliveryDate: 2024-07-27
 --------------------
 Product:
 Index: 2
-Name: Миша Logitech G304 Wireless Lightspeed White
+Name: Ковбаса
 Unit: шт
-Price: 1899
-Quantity: 10
+Price: 30
+Quantity: 86
 LastDeliveryDate: 2024-07-27
 --------------------
 Product:
 Index: 3
-Name: Миша Logitech M170 Wireless Black
+Name: Сир
 Unit: шт
-Price: 449
-Quantity: 23
-LastDeliveryDate: 2024-07-27
+Price: 32
+Quantity: 79
+LastDeliveryDate: 2024-08-19
 --------------------
 Product:
 Index: 4
-Name: Миша Trust Yvi FX Wireless Black
-Unit: шт
-Price: 259
-Quantity: 34
+Name: Капуста
+Unit: кг
+Price: 23
+Quantity: 98
 LastDeliveryDate: 2024-07-28
---------------------
-Product:
-Index: 5
-Name: Миша Trust Mydo Silent Optical Mouse
-Unit: шт
-Price: 269
-Quantity: 45
-LastDeliveryDate: 2024-08-16
---------------------
-Product:
-Index: 6
-Name: Миша HP 280 Silent Wireless Black
-Unit: шт
-Price: 999
-Quantity: 36
-LastDeliveryDate: 2024-08-18
---------------------
-Product:
-Index: 7
-Name: Миша Genius Ergo 8200S Wireless
-Unit: шт
-Price: 373
-Quantity: 39
-LastDeliveryDate: 2024-07-28
---------------------
-Product:
-Index: 8
-Name: Клавіатура Vinga KBGM160 LED Outemu Blue USB Black
-Unit: шт
-Price: 1669
-Quantity: 13
-LastDeliveryDate: 2024-07-30
 --------------------

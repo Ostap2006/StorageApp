@@ -31,7 +31,7 @@ namespace StorageApp1.Classes
 
         public override string ToString()
         {
-            return $"{Index}. {Name}, {Quantity} {Unit}, {Price.ToString("F2")} грн, Ост. завезення: {LastDeliveryDate.ToShortDateString()}";
+            return $"{Index}. {Name}, {Quantity}, {Unit}, {Price.ToString("F2")} грн, Ост. завезення: {LastDeliveryDate.ToShortDateString()}";
         }
 
         public void SetIndex(int index)

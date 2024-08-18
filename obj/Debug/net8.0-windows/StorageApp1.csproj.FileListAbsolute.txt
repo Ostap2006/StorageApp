@@ -17,3 +17,4 @@ C:\Work\VisualStudio\2024\WindowsFormApp\StorageApp1\StorageApp1\obj\Debug\net8.
 C:\Work\VisualStudio\2024\WindowsFormApp\StorageApp1\StorageApp1\obj\Debug\net8.0-windows\StorageApp1.Forms.EditForm.resources
 C:\Work\VisualStudio\2024\WindowsFormApp\StorageApp1\StorageApp1\obj\Debug\net8.0-windows\StorageApp1.Forms.RevenueInvoice.resources
 C:\Work\VisualStudio\2024\WindowsFormApp\StorageApp1\StorageApp1\obj\Debug\net8.0-windows\StorageApp1.Forms.ShipmentForm.resources
+C:\Work\VisualStudio\2024\WindowsFormApp\StorageApp1\StorageApp1\obj\Debug\net8.0-windows\StorageApp1.sourcelink.json
