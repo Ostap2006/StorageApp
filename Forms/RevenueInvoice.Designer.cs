@@ -60,7 +60,7 @@
             textBoxYear.Multiline = true;
             textBoxYear.Name = "textBoxYear";
             textBoxYear.Size = new Size(115, 32);
-            textBoxYear.TabIndex = 16;
+            textBoxYear.TabIndex = 6;
             // 
             // textBoxMonth
             // 
@@ -70,7 +70,7 @@
             textBoxMonth.Multiline = true;
             textBoxMonth.Name = "textBoxMonth";
             textBoxMonth.Size = new Size(115, 32);
-            textBoxMonth.TabIndex = 15;
+            textBoxMonth.TabIndex = 5;
             // 
             // textBoxDay
             // 
@@ -80,7 +80,7 @@
             textBoxDay.Multiline = true;
             textBoxDay.Name = "textBoxDay";
             textBoxDay.Size = new Size(115, 32);
-            textBoxDay.TabIndex = 14;
+            textBoxDay.TabIndex = 4;
             // 
             // label7
             // 
@@ -119,7 +119,7 @@
             button2.Location = new Point(403, 393);
             button2.Name = "button2";
             button2.Size = new Size(237, 78);
-            button2.TabIndex = 9;
+            button2.TabIndex = 8;
             button2.Text = "Головне меню";
             button2.UseVisualStyleBackColor = true;
             button2.Click += button2_Click_1;
@@ -131,7 +131,7 @@
             button1.Location = new Point(146, 393);
             button1.Name = "button1";
             button1.Size = new Size(237, 78);
-            button1.TabIndex = 8;
+            button1.TabIndex = 7;
             button1.Text = "Зареєструвати / Оновити";
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click_1;
@@ -145,7 +145,7 @@
             textBoxCount.Multiline = true;
             textBoxCount.Name = "textBoxCount";
             textBoxCount.Size = new Size(574, 38);
-            textBoxCount.TabIndex = 7;
+            textBoxCount.TabIndex = 3;
             textBoxCount.TextChanged += textBoxCount_TextChanged;
             // 
             // label4
@@ -167,7 +167,7 @@
             textBoxPrice.Multiline = true;
             textBoxPrice.Name = "textBoxPrice";
             textBoxPrice.Size = new Size(574, 38);
-            textBoxPrice.TabIndex = 5;
+            textBoxPrice.TabIndex = 2;
             textBoxPrice.TextChanged += textBoxPrice_TextChanged;
             // 
             // label3
@@ -189,7 +189,7 @@
             textBoxUnit.Multiline = true;
             textBoxUnit.Name = "textBoxUnit";
             textBoxUnit.Size = new Size(574, 38);
-            textBoxUnit.TabIndex = 3;
+            textBoxUnit.TabIndex = 1;
             // 
             // label2
             // 
@@ -238,7 +238,7 @@
             comboBoxName.Location = new Point(209, 16);
             comboBoxName.Name = "comboBoxName";
             comboBoxName.Size = new Size(574, 40);
-            comboBoxName.TabIndex = 20;
+            comboBoxName.TabIndex = 0;
             comboBoxName.SelectedIndexChanged += comboBoxName_SelectedIndexChanged;
             comboBoxName.TextChanged += comboBoxName_TextChanged;
             // 

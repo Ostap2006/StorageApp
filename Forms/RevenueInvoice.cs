@@ -10,11 +10,11 @@ namespace StorageApp1.Forms
     {
         private StorageList storage;
         private double totalPrice;
-        private Product _product;
 
         public RevenueInvoice()
         {
             InitializeComponent();
+            this.Load += new EventHandler(this.RevenueInvoice_Load);
 
             this.MinimumSize = new Size(811, 537);
             this.MaximumSize = new Size(int.MaxValue, 537);
@@ -28,8 +28,6 @@ namespace StorageApp1.Forms
                 comboBoxName.Items.Add(product.Name);
             }
             /*textBoxName.TextChanged += textBoxName_TextChanged;*/
-
-            comboBoxName.SelectedIndexChanged +=comboBoxName_SelectedIndexChanged;
             comboBoxName.SelectedIndexChanged += comboBoxName_SelectedIndexChanged;
 
 
@@ -45,7 +43,7 @@ namespace StorageApp1.Forms
 
         private void RevenueInvoice_Load(object sender, EventArgs e)
         {
-
+            this.BeginInvoke(new Action(() => comboBoxName.Focus()));
         }
 
 
@@ -126,6 +124,13 @@ namespace StorageApp1.Forms
             }
 
             storage.SaveProducts("data.txt");
+
+            comboBoxName.Items.Clear();
+
+            foreach (var product in storage.Products)
+            {
+                comboBoxName.Items.Add(product.Name);
+            }
         }
 
         private void button2_Click_1(object sender, EventArgs e)
