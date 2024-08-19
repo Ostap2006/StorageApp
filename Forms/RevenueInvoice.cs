@@ -124,6 +124,7 @@ namespace StorageApp1.Forms
             }
 
             storage.SaveProducts("data.txt");
+            storage.ReindexProducts();
 
             comboBoxName.Items.Clear();
 

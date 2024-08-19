@@ -47,10 +47,18 @@ Quantity: 68
 LastDeliveryDate: 2024-08-08
 --------------------
 Product:
-Index: -1
+Index: 7
 Name: Огірки
 Unit: кг
 Price: 29,5
 Quantity: 45
 LastDeliveryDate: 2024-08-08
+--------------------
+Product:
+Index: 8
+Name: Перець
+Unit: кг
+Price: 23,5
+Quantity: 65
+LastDeliveryDate: 2024-08-10
 --------------------
